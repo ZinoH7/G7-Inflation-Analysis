@@ -36,15 +36,15 @@ The project combines data from the following sources:
   
 ## Repository Structure
 summer-python-project/
-│
-├── data/
-│   ├── CMO-Historical-Data-Annual.csv
-│   ├── OECD.ECO.MPD,DSD_AN_HOUSE_PRICES@DF_HOUSE_PRICES,1.0+all.csv
-│   ├── OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,1.0+all.csv
-│   ├── OECD.SDD.STES,DSD_STES@DF_FINMARK,+all.csv
-│   └── panel_data.csv
-│
-├── .gitignore
-├── EDA.ipynb
-├── G7_Inflation_Data_Pipeline.ipynb
-└── README.md
+|
+|--- data/
+|   |--- CMO-Historical-Data-Annual.csv
+|   |--- OECD.ECO.MPD,DSD_AN_HOUSE_PRICES@DF_HOUSE_PRICES,1.0+all.csv
+|   |--- OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,1.0+all.csv
+|   |--- OECD.SDD.STES,DSD_STES@DF_FINMARK,+all.csv
+|   |--- panel_data.csv
+|
+|--- .gitignore
+|--- EDA.ipynb
+|--- G7_Inflation_Data_Pipeline.ipynb
+|--- README.md
