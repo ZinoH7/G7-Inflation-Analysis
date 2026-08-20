@@ -1,3 +1,4 @@
+```text
 # summer-python-project
 
 ## Description
@@ -48,3 +49,5 @@ summer-python-project/
 |--- EDA.ipynb
 |--- G7_Inflation_Data_Pipeline.ipynb
 |--- README.md
+
+```
