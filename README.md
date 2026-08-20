@@ -8,4 +8,29 @@ Variables were chosen to reflect the main causes of inflation:
 - Built in inflation (Wage Growth)
 - The housing market (House price growth)
 - Expansionary monetary policy (Interest Rates)
-- Monetary devaluation (Exchange rate)
+- Monetary devaluation (Change in Exchange rates)
+
+## Data
+The project combines data from the following sources:
+
+### World Bank API
+- CPI inflation
+- GDP growth
+- Unemployment
+- Money growth
+- Government consumption
+- Exchange rates
+- Imports as a percentage of GDP
+
+### OECD
+- House price indices
+  (https://data-explorer.oecd.org/vis?lc=en&tm=DF_HOUSE_PRICES&pg=0&snb=1&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_AN_HOUSE_PRICES%40DF_HOUSE_PRICES&df[ag]=OECD.ECO.MPD&df[vs]=1.0&pd=,&dq=.Q.RHP.&to[TIME_PERIOD]=false)
+- Average annual wages, measured in USD at purchasing power parity
+  (https://data-explorer.oecd.org/vis?tm=%22average%20annual%20wage%22&pg=0&snb=4&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_EARNINGS%40AV_AN_WAGE&df[ag]=OECD.ELS.SAE&df[vs]=1.0&dq=......&pd=2000,&to[TIME_PERIOD]=false)
+- Short-term interest rates
+  (https://data-explorer.oecd.org/vis?lc=en&df[ds]=DisseminateFinalDMZ&df[id]=DSD_STES%40DF_FINMARK&df[ag]=OECD.SDD.STES&df[vs]=4.0&dq=AUS.M..PA.....&lom=LASTNPERIODS&lo=5&to[TIME_PERIOD]=false)
+
+### World Bank Commodity Markets
+- Annual Crude Prices (global)
+  (https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Annual.xlsx)
+  
