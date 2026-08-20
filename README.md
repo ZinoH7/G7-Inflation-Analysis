@@ -1,4 +1,3 @@
-```text
 # summer-python-project
 
 ## Description
@@ -36,6 +35,8 @@ The project combines data from the following sources:
   (https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Annual.xlsx)
   
 ## Repository Structure
+
+```text
 summer-python-project/
 |
 |--- data/
@@ -49,5 +50,4 @@ summer-python-project/
 |--- EDA.ipynb
 |--- G7_Inflation_Data_Pipeline.ipynb
 |--- README.md
-
 ```
