@@ -1,4 +1,4 @@
-# summer-python-project
+# G7-Inflation-Analysis
 
 ## Description
 The project investigates inflation and macroeconomic variables across G7 countries: Canada, Japan, the United States, France, Germany, Italy and the United Kingdom. 
