@@ -48,4 +48,5 @@ G7-Inflation-Analysis/
 |--- README.md
 ```
 ## Screenshot of Power BI dashboard
-<img width="2386" height="1302" alt="image" src="https://github.com/user-attachments/assets/7b274ea0-106d-4ebc-bfc6-940dc28f4adb" />
+<img width="2374" height="1302" alt="image" src="https://github.com/user-attachments/assets/77d54c59-2afd-438a-9112-b104b03d9ef0" />
+
